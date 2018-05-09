@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "425633470714",
+    "firebase_url": "https://appversion01-58f8d.firebaseio.com",
+    "project_id": "appversion01-58f8d",
+    "storage_bucket": "appversion01-58f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425633470714:android:e0fbf4f18b9614ef",
+        "android_client_info": {
+          "package_name": "jema.vavi.appversion01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425633470714-aivuh43g8if8ck7s8n984drfudhen0di.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jema.vavi.appversion01",
+            "certificate_hash": "aa1a68223fbb95f74428e3188c20cc39ab2fd05e"
+          }
+        },
+        {
+          "client_id": "425633470714-l2jp64nusm4vc4tb73sijoh80ihkecec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_dX67ahjNQvMxwUEElUhNIJS0RSVGJA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425633470714-l2jp64nusm4vc4tb73sijoh80ihkecec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
